@@ -1,0 +1,9 @@
+server:
+  port: 9999
+
+spring:
+  datasource:
+    driver-class-name:com.mysql.cj.jdbc.Driver
+    url:jdbc:mysql://120.78.171.248:3306/group10?useunicode=true;&characterEncoding=utf8
+    data-password:root
+    data-username:root
